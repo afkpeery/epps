@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /api/
+Disallow: /coach-dashboard
+Disallow: /coach.html
+Sitemap: https://epps-speed-agility.nuttysugar21.chatgpt.site/sitemap.xml
